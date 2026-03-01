@@ -1,3 +1,5 @@
+Problem 6. <img width="589" height="448" alt="p6" src="https://github.com/user-attachments/assets/87ca6448-e679-4b1a-a378-8ca187a56fe5" />
+
 Problem 7. <img width="586" height="445" alt="p7" src="https://github.com/user-attachments/assets/8ec8a4f7-b27c-4885-ab5d-ebf496de2f15" />
 
 Problem 8. <img width="590" height="426" alt="P8" src="https://github.com/user-attachments/assets/b602faa2-5507-4cb1-bf42-ff521a837d0c" />
